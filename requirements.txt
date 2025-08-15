@@ -1,0 +1,8 @@
+google-api-python-client
+pandas
+requests
+beautifulsoup4
+apify-client
+praw
+python-dotenv
+lxml
